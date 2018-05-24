@@ -1,2 +1,0 @@
-/usr/bin/ar qc libhw_0.a  CMakeFiles/hw_0.dir/library.c.o
-/usr/bin/ranlib libhw_0.a
