@@ -1,6 +1,7 @@
-cmake_minimum_required(VERSION 3.10)
-project(hw_0 C)
+cmake_minimum_required(VERSION 3.8)
+project(template)
 
 set(CMAKE_C_STANDARD 99)
 
-add_library(hw_0 library.c library.h)
+set(SOURCE_FILES test_binarize.c binarize.h binarize.c)
+add_executable(template ${SOURCE_FILES})
