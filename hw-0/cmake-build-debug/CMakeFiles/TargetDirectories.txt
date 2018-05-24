@@ -1,0 +1,3 @@
+/home/vlad/inno_ansi_c_summer/hw-0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vlad/inno_ansi_c_summer/hw-0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vlad/inno_ansi_c_summer/hw-0/cmake-build-debug/CMakeFiles/hw_0.dir
